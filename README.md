@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend Web development 
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me mamahkingsleychukwuebuka@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
